@@ -1,6 +1,8 @@
 # app_ufg
 
-A new Flutter project.
+Meu primeiro projeto concluído em Flutter (pelo tutorial do querido Luigi Gontijo) + algumas levs alterações em questões de layout para o meu agrado (rs!)
+
+My first project in Flutter (guided by Luigi Gontijo) with some little layout changes that looked better in my opinion (LoL)
 
 ## Getting Started
 
